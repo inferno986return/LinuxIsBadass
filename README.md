@@ -4,6 +4,7 @@ Linux is Badass. The E-book.
 This is to my knowledge the only free ePub of Bryan Lunduke's *Linux is Badass (Slightly More Badass Edition)* and best of all the CC-BY-NC-SA license means I can't sell it even if I wanted to. Also this e-book was solely developed on a Mac, partly for my amusement given the book's subject material.
 
 Jokes aside, support Bryan Lunduke via Patreon: https://www.patreon.com/bryanlunduke
+
 I don't agree with the guy on everything, but he's still a good example of a GNU/Linux community member.
 
 ## Featuring
@@ -33,3 +34,5 @@ Book content such as text and images are licensed under the **Creative Commons A
 Book code such as the .xhtml, .css and .xml files are licensed under **Creative Commons Zero 1.0 Universal (CC0 1.0)**.
 
 The IDPF's `epubcheck-4.0.2` tool is licensed under **Apache License 2.0**, **Mozilla Public License** and **BSD 3-clause License**.
+
+![Cover](https://github.com/inferno986return/LinuxIsBadass/blob/master/e-book/OEBPS/images/cover.png)
