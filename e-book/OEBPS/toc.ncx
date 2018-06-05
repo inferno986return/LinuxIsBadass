@@ -72,7 +72,7 @@
 	</navPoint>
 	<navPoint id="navpoint-11" playOrder="11">
 		<navLabel>
-			<text>It just works? Fuck that!</text>
+			<text>&#8220;It just works?&#8221; Fuck that!</text>
 		</navLabel>
 		<content src="itjustworks.xhtml" />
 	</navPoint>
@@ -90,7 +90,7 @@
 	</navPoint>
 	<navPoint id="navpoint-14" playOrder="14">
 		<navLabel>
-			<text>Badass Leadership. (Or 'My crazy, neck beard dude can beat up your marketing dude.')</text>
+			<text>Badass Leadership. (Or &#8220;My crazy, neck beard dude can beat up your marketing dude.&#8221;)</text>
 		</navLabel>
 		<content src="badassleadership.xhtml" />
 	</navPoint>
@@ -198,79 +198,79 @@
 	</navPoint>
 	<navPoint id="navpoint-32" playOrder="32">
 		<navLabel>
-			<text>She took my dog, my truck and my gratuitous desktop effects.</text>
+			<text>&#8220;She took my dog, my truck and my gratuitous desktop effects.&#8221;</text>
 		</navLabel>
 		<content src="shetook.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-33" playOrder="33">
 		<navLabel>
-			<text>Farewell, sweet XOrg</text>
+			<text>&#8220;Farewell, sweet XOrg&#8221;</text>
 		</navLabel>
 		<content src="farewell.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-34" playOrder="34">
 		<navLabel>
-			<text>Woo! Debian Haiku Free-for-all!</text>
+			<text>&#8220;Woo! Debian Haiku Free-for-all!&#8221;</text>
 		</navLabel>
 		<content src="debianhaiku.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-35" playOrder="35">
 		<navLabel>
-			<text>Ubuntu Haiku Time</text>
+			<text>&#8220;Ubuntu Haiku Time&#8221;</text>
 		</navLabel>
 		<content src="ubuntuhaiku.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-36" playOrder="36">
 		<navLabel>
-			<text>Why did I write this Haiku about Mageia?</text>
-		</navLabel>
-		<content src="mageiahaiku.xhtml" />
-	</navPoint>
-	<navPoint id="navpoint-37" playOrder="37">
-		<navLabel>
-			<text>Linux Mint Haiku Party!</text>
+			<text>&#8220;Linux Mint Haiku Party!&#8221;</text>
 		</navLabel>
 		<content src="minthaiku.xhtml" />
 	</navPoint>
+	<navPoint id="navpoint-37" playOrder="37">
+		<navLabel>
+			<text>&#8220;Why did I write this Haiku about Mageia?&#8221;</text>
+		</navLabel>
+		<content src="mageiahaiku.xhtml" />
+	</navPoint>
 	<navPoint id="navpoint-38" playOrder="38">
 		<navLabel>
-			<text>I blame Lennart Poettering with a classy haiku</text>
+			<text>&#8220;I blame Lennart Poettering with a classy haiku&#8221;</text>
 		</navLabel>
 		<content src="classyhaiku.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-39" playOrder="39">
 		<navLabel>
-			<text>Limericks about package management</text>
+			<text>&#8220;Limericks about package management&#8221;</text>
 		</navLabel>
 		<content src="limerickspackagemanagement.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-40" playOrder="40">
 		<navLabel>
-			<text>A treatise on the relative drawbacks and merits of Fedora</text>
+			<text>&#8220;A treatise on the relative drawbacks and merits of Fedora&#8221;</text>
 		</navLabel>
 		<content src="meritsfedora.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-41" playOrder="41">
 		<navLabel>
-			<text>MY EYES THEY BURN</text>
+			<text>&#8220;MY EYES THEY BURN&#8221;</text>
 		</navLabel>
 		<content src="myeyes.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-42" playOrder="42">
 		<navLabel>
-			<text>Arch gets a limerick</text>
+			<text>&#8220;Arch gets a limerick&#8221;</text>
 		</navLabel>
 		<content src="archlimerick.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-43" playOrder="43">
 		<navLabel>
-			<text>Ode to Ubuntu’s Unity Dash</text>
+			<text>&#8220;Ode to Ubuntu’s Unity Dash&#8221;</text>
 		</navLabel>
 		<content src="odetounity.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-44" playOrder="44">
 		<navLabel>
-			<text>The Complete History of Ubuntu (Abridged)</text>
+			<text>&#8220;The Complete History of Ubuntu (Abridged)&#8221;</text>
 		</navLabel>
 		<content src="historyofubuntu.xhtml" />
 	</navPoint>
